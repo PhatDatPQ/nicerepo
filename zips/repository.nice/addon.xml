@@ -5,9 +5,9 @@
     </requires>
     <extension point="xbmc.addon.repository" name="NICE Repository">
         <dir>
-            <info compressed="false">https://raw.github.com/PhatDatPQ/kodi.repository/master/addons.xml</info>
-            <checksum>https://raw.github.com/PhatDatPQ/kodi.repository/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/PhatDatPQ/kodi.repository/raw/master/zips/</datadir>
+            <info compressed="false">https://nicerepo.cf/addons.xml</info>
+            <checksum>https://nicerepo.cf/addons.xml.md5</checksum>
+            <datadir zip="true">https://nicerepo.cf/zips/</datadir>
         </dir>
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
@@ -21,7 +21,7 @@
         </description>
         <disclaimer lang="en">The provider is not responsible for any issues caused by using this addon.
         </disclaimer>
-        <email>PhatDatPQ@gmail.com</email>
+        <email>nofearlose@gmail.com</email>
         <platform>all</platform>
     </extension>
 </addon>
