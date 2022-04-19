@@ -5,8 +5,8 @@
     </requires>
     <extension point="xbmc.addon.repository" name="NICE Repository">
         <dir>
-            <info compressed="false">https://nicerepo.cf/addons.xml</info>
-            <checksum>https://nicerepo.cf/addons.xml.md5</checksum>
+            <info compressed="false">https://nicerepo.cf/zips/addons.xml</info>
+            <checksum>https://nicerepo.cf/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://nicerepo.cf/zips/</datadir>
         </dir>
         <dir>
